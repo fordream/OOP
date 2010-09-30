@@ -1,0 +1,70 @@
+<!DOCTYPE html PUBLIC "-//WAPFORUM//DTD XHTML Mobile 1.0//EN" "http://www.wapforum.org/DTD/xhtml-mobile10.dtd"> 
+<html xmlns="http://www.w3.org/1999/xhtml"> 
+<head> 
+<meta http-equiv="content-type" content="application/xhtml+xml; charset=utf-8" /> 
+<meta name="MobileOptimized" content="176" /> 
+<title>В Контакте | Обсуждения</title> 
+<link rel="stylesheet" href="css/pda.css" type="text/css" /> 
+<link rel="shortcut icon" href="/images/favicon.ico" /> 
+</head> 
+<body> 
+ 
+ 
+<div id="head"><a href="/"><img alt="В Контакте" width="100" height="17" src="images/xheadpda.gif"/></a></div> 
+<div id="content"> 
+    <div class="header">Бухнём?</div> 
+    <div class="bline pageListCont"><span class='pageList'><a href="/topic23322905?oid=-11360525&amp;st=0">&laquo;</a><a href="/topic23322905?oid=-11360525&amp;st=30">7</a><a href="/topic23322905?oid=-11360525&amp;st=35">8</a><span class='current'>9</span><a href="/topic23322905?oid=-11360525&amp;st=45">10</a><a href="/topic23322905?oid=-11360525&amp;st=50">11</a><a href="/topic23322905?oid=-11360525&amp;st=55">&raquo;</a></span></div> 
+    <div class="rows"> 
+          <div> 
+      <a href="/id18052275">Лев &#950; Дзета &#950; Каминский</a><br/> 
+      <small class="faint">вчера в 21:18</small><br/> 
+      я за с 11 на 12=)))) если что=)
+    </div>    <div> 
+      <a href="/id18193710">Никита Маслов</a><br/> 
+      <small class="faint">вчера в 21:20</small><br/> 
+      говорю ж с 11го на 12ое будут бухать доктора там&#33;
+    </div>    <div> 
+      <a href="/id18052275">Лев &#950; Дзета &#950; Каминский</a><br/> 
+      <small class="faint">вчера в 21:38</small><br/> 
+      ну значит бухать не там - и все=)))
+    </div>    <div> 
+      <a href="/id18193710">Никита Маслов</a><br/> 
+      <small class="faint">вчера в 22:41</small><br/> 
+      можно в подиуме забухать )<br/><br/>только надо билеты щас брать, а то билеты будут дорожать, дорожать билеты будут :D
+    </div>    <div> 
+      <a href="/id13733599">Михаил хвостик Снетков</a><br/> 
+      <small class="faint">вчера в 22:47</small><br/> 
+      Да-да-да&#33;) И будут стоить 200 рублей.
+    </div> 
+    </div> 
+    <div class="bline pageListCont"><span class='pageList'><a href="/topic23322905?oid=-11360525&amp;st=0">&laquo;</a><a href="/topic23322905?oid=-11360525&amp;st=30">7</a><a href="/topic23322905?oid=-11360525&amp;st=35">8</a><span class='current'>9</span><a href="/topic23322905?oid=-11360525&amp;st=45">10</a><a href="/topic23322905?oid=-11360525&amp;st=50">11</a><a href="/topic23322905?oid=-11360525&amp;st=55">&raquo;</a></span></div> 
+    <div class="padbl"> 
+      <a name="end"/> 
+      
+      <form action='/addpost?pda=1&amp;gid=11360525&amp;tid=23322905&amp;add_bookmark=1' method='POST'> 
+      <input type="hidden" name="hash" value="728c9f53"/> 
+      <textarea name="post" rows="5" cols="17"></textarea><br/> 
+      <input type="submit" value="Добавить"/> 
+      </form> 
+    </div> 
+    <div class="padbl"> 
+      <ul class="pageMenu"> 
+        <li><a href="/group11360525">Вернуться в группу</a></li> 
+      </ul> 
+    </div> 
+<div id="bottomMenu"> 
+<small>1 <a accesskey='1' href='/id'>Моя страница</a></small><br/> 
+<small>2 <a accesskey='2' href='/friends'>Друзья (<b>32</b>)</a></small><br/> 
+<small>3 <a accesskey='3' href='albums'>Фотографии</a></small><br/> 
+<small>4 <a accesskey='4' href='/inbox'>Сообщения</a></small><br/> 
+<small>5 <a accesskey='5' href='/fave'>Закладки</a></small><br/> 
+<small>6 <a accesskey='6' href='/news'>Новости</a></small><br/> 
+<small>7 <a accesskey='7' href='/notes'>Заметки</a></small><br/> 
+<small>8 <a accesskey='8' href='/groups'>Группы (<b>4</b>)</a></small><br/> 
+<small>9 <a accesskey='9' href='/events'>Встречи</a></small><br/> 
+<small>0 <a accesskey="0" href='/index'>Главная</a></small> 
+</div> 
+ 
+</div> 
+</body> 
+</html>
